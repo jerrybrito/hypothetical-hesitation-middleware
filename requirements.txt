@@ -1,0 +1,2 @@
+# Requires: future-delay
+# (Not available on PyPI)
